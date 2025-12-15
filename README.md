@@ -9,6 +9,8 @@ Floatly is a decentralized lending protocol that bridges the gap between crypto 
 [![Move](https://img.shields.io/badge/Move-2024-blue)](https://docs.iota.org/)
 [![IOTA](https://img.shields.io/badge/IOTA-Testnet-blue)](https://testnet.iota.org)
 
+![image](image.png)
+
 ## 🌟 New Features
 
 ✅ **Backend API Implemented** - Express.js backend with IOTA notarization  
